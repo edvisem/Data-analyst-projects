@@ -2,7 +2,7 @@
 # Project 1.
 # BMW vs Volvo. Which brand is more economic and ecologic 2009-2022?
 
-Project 1 file with all codes. >>> [Project 1 ](https://bit.ly/3GpYNLj)
+Project 1 file with all codes. > [Project 1 ](https://bit.ly/3GpYNLj)
 
 The picture bellow speaks about Volvo & BMW average fuel consumption in period of 2009-2022. 
 ![Picture1](/images/tableau_CidkdfHP6Q.png)
