@@ -11,7 +11,7 @@ The picture bellow speaks about Volvo & BMW average fuel consumption in period o
 -  What is interesting to notice that Volvo from 8.5 L/100 in 2009 decreased their fuel consumption to ~ 6.7L/100, but BMW did not realy changed their average consumption, they had about 7.5 in 2009 and has about the same numbers in 2022.
 
 Second picture shows Volvo & BMW average CO2 tax rate in period of 2009-2022.
-![](/images/CO2%20tax.png)
+![Picture2](/images/tableau_P4wx6tlHy9.png)
 -It's obvious that CO2 tax rate depends on fuel consumption. The larger the usage, the more CO2 is discarded, the larger the tax, so this graph is very similar to average fuel consumption graph.
 
 Third picture shows how Volvo & BMW average fuel consumption depends on engine cylinders number and horsepower.
