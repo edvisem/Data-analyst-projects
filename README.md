@@ -15,7 +15,7 @@ Second picture shows Volvo & BMW average CO2 tax rate in period of 2009-2022.
 -It's obvious that CO2 tax rate depends on fuel consumption. The larger the usage, the more CO2 is discarded, the larger the tax, so this graph is very similar to average fuel consumption graph.
 
 Third picture shows how Volvo & BMW average fuel consumption depends on engine cylinders number and horsepower.
-![](/images/Dependency.png)
+![Picture3](/images/tableau_YHN9ZmlqWa.png)
 - Both brands in early years used average of ~ 5 cylinders, but BMW had way more horsepower on their engines, so it meanes Volvo engines where weaker than BMW (even though they had almost the same number of cylinders) and had larger average fuel consumption. 
 - Over time Volvo managed to create smaller engines than BMW with 4 cylinders, which extremely decreased fuel consumption and increased horsepower, but BMW managed to increase only the power, number of cylinders and fuel consumption where plus minus the same as it was in 2009.
 - BMW where more economical and ecological mark than Volvo till 2017, after that Volvo had better results. This phenomenon might be related to engine size because as the data shows Volvo started making smaller engines. Or maybe Volvo has a better economical and ecological evolution over the years than BMW.
