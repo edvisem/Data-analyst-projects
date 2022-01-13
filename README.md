@@ -5,5 +5,8 @@
 
 Project 1 file with all codes. >>> [Project 1 ](https://bit.ly/3GpYNLj)
 
-![BMW & Volvo  fuel consumption](tableau_qjbNsKwrgY.jpg)
+![](https://github.com/edvisem/Projects/blob/main/images/Dependency.png)
 
+![](https://github.com/edvisem/Projects/blob/main/images/Consumption.png)
+
+![](https://github.com/edvisem/Projects/blob/main/images/CO2%20tax.png)
