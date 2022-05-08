@@ -1,6 +1,6 @@
 # Edvinas Mickevičius Data Analytics Projects
 # Project 1.
-# BMW vs Volvo. Which brand is more economiccal and ecologiccal 2009-2022?
+# BMW vs Volvo. Which brand is more economical and ecological 2009-2022?
 
 Project 1 file with all codes. > [Project 1 ](https://bit.ly/3GpYNLj)
 
